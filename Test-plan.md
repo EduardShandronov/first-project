@@ -196,7 +196,7 @@ Where City Like ‘A%’
  </td>
 </tr>
 <tr>
-<td>Сервер</td> 
+<td>Сервер:</td> 
  <td>
  </td>
  <td>
@@ -236,7 +236,7 @@ Where City Like ‘A%’
  </td>
 </tr>
 <tr>
-<td>База данных</td> 
+<td>База данных:</td> 
  <td>
  </td>
  <td>
