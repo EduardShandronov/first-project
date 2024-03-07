@@ -1,10 +1,10 @@
 #Шандронов Эдуард Эрнестович  
 
 **Задание 1.**  
-1)Select City From Customers  
-2)Select * From Customers  
+1) Select City From Customers  
+2) Select * From Customers  
 Order by City Desc  
-3)Select * from Customers  
+3) Select * from Customers  
 Where City Like ‘A%’  
 
 **Задание 2.**  
