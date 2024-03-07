@@ -11,14 +11,14 @@ Select City From Customers
 2) Выберите все записи из таблицы Customers так, чтобы сортировка результата была в
 обратном в алфавитном порядке по столбцу City.
 
-**Ответ**
+**Ответ**  
 Select * From Customers  
 Order by City Desc
 
 3) Выберите все записи в таблице Customers, в которых значение столбца City начинается с буквы
 "а".
 
-**Ответ**
+**Ответ**  
 Select * from Customers  
 Where City Like ‘а%’  
 
